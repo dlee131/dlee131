@@ -9,4 +9,4 @@
 - ⚡ Outside of coding, I love working out and exploring coffee shops.
 
 # Technologies
-Postgres  MongoDB  Ruby  CSS  HTML  JavaScript  Rails  Express  React  Redux   NodeJS  AWS  Git
+
