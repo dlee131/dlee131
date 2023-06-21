@@ -2,12 +2,11 @@
 
 
 # About Me!
-
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- I am a Full Stack web developer currently located in New York.
+- 🎓 I graduated from App Academy, a highly competitive software engineering bootcamp specializing in web development.
+- 🌱 I am currently learning python.
 - 📫 You can reach me at my email: dlee13195@gmail.com or my [LinkedIn](https://www.linkedin.com/in/daniel-lee-231a57262) 
-- ⚡ Fun fact: ...
+- ⚡ Outside of coding, I love working out and exploring coffee shops.
 
 # Technologies
-![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+Postgres  MongoDB  Ruby  CSS  HTML  JavaScript  Rails  Express  React  Redux   NodeJS  AWS  Git
