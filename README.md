@@ -10,8 +10,17 @@
 - ⚡ Outside of coding, I love working out and exploring coffee shops in the city.
 
 ### Technologies
-<img src="https://github.com/dlee131/dlee131/assets/117231532/3454a73a-d25f-4c2e-9957-6254198fdde5" alt="Image description" width="50" height="50">
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Image description" width="50" height="50">
 <img src="https://github.com/dlee131/dlee131/assets/117231532/d5526d28-b845-4a78-9a29-d5d54543bcb1" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Image description" width="50" height="50">
+
+</p>
 
 
 
