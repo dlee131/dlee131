@@ -10,7 +10,7 @@
 - ⚡ Outside of coding, I love working out and exploring coffee shops in the city.
 
 ### Technologies
-<p align="center">
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Image description" width="50" height="50">
 <img src="https://github.com/dlee131/dlee131/assets/117231532/d5526d28-b845-4a78-9a29-d5d54543bcb1" alt="Image description" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Image description" width="50" height="50">
@@ -19,7 +19,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Image description" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Image description" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Image description" width="50" height="50">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Image description" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Image description" width="50" height="50">
 </p>
 
 
