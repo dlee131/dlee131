@@ -10,6 +10,8 @@
 - ⚡ Outside of coding, I love working out and exploring coffee shops in the city.
 
 ### Technologies
-![image](https://github.com/dlee131/dlee131/assets/117231532/d5526d28-b845-4a78-9a29-d5d54543bcb1)
-![image](https://github.com/dlee131/dlee131/assets/117231532/3454a73a-d25f-4c2e-9957-6254198fdde5)
-![image](https://github.com/dlee131/dlee131/assets/117231532/c6969410-27a4-4ce4-aa0d-53ea2b19eb54)
+<img src="https://github.com/dlee131/dlee131/assets/117231532/3454a73a-d25f-4c2e-9957-6254198fdde5" alt="Image description" width="50" height="50">
+<img src="https://github.com/dlee131/dlee131/assets/117231532/d5526d28-b845-4a78-9a29-d5d54543bcb1" alt="Image description" width="50" height="50">
+
+
+
